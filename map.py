@@ -1,0 +1,2 @@
+MAP = {'Python': 'Python.gitignore'
+       }
