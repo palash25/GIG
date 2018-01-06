@@ -11,6 +11,7 @@ setup(
     ],
     entry_points='''
         [console_scripts]
-        gigen=cli:cli
-    ''',    
+        gig=cli:cli
+    ''',
+    include_package_data=True,
 )
