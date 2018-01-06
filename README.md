@@ -13,7 +13,7 @@ Just `cd` into your project repository and type `gig --lang <language-or-framewo
 For e.g to generate a gitignore for a haskell project type `gig --lang Haskell`
 
 ## See it in action
-![GIG in action](https://raw.githubusercontent.com/palash25/GIG/master/assets/gig.gif)
+![GIG in action](https://github.com/palash25/GIG/blob/master/assets/gig.gif)
 
 ## Requirements
 **Python 3**
