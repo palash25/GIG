@@ -1,7 +1,7 @@
 import click
 
 
-from gig import GIG
+from app.gig import GIG
 
 
 @click.command()
@@ -10,6 +10,6 @@ def cli(lang):
     ob = GIG()
     if lang == 'None':
         click.echo('Generating empty gitignore'
-        'since lang argument not provided')
+        'since `lang` argument not provided')
     else:
         ob.generate(lang)
