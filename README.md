@@ -1,3 +1,5 @@
+<a target="_top" href="http://www.flamingtext.com/" ><img src="https://blog.flamingtext.com/blog/2018/02/21/flamingtext_com_1519200076_290247836.png" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a>
+
 # GIG : GitIgnore Generator [WIP]
 Generate language/framework specific `.gitignore` from the comfort of your terminal. This is a work in **progress**.
 
@@ -42,8 +44,8 @@ Now, to install the required packages follow the instructions as mentioned under
 This is just the MVP and it still needs a lot of work. Once it is done it will be open for contributions.
 
 ## ToDo
-- Add checks for pre-existing `.gitignore` files and uninitialized repo.
-- Add warning messages for the user.
-- Add docstrings and man page.
-- PEP8ify the code.
-- Refactoring and cleanup.
+- [ ] Add checks for pre-existing `.gitignore` files and uninitialized repo.
+- [ ] Add warning messages for the user.
+- [ ] Add docstrings and man page.
+- [ ] PEP8ify the code.
+- [ ] Refactoring and cleanup.
