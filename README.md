@@ -3,7 +3,7 @@
 # GIG : GitIgnore Generator [WIP]
 Generate language/framework specific `.gitignore` from the comfort of your terminal. This is a work in **progress**.
 
-## What is it?
+## What is this?
 A simple CLI tool to generate `.gitignore` files for your projects. It can generate `.gitignore` files specific to more than 100 languages or frameworks.
 
 ## Why use this?
@@ -18,8 +18,8 @@ For e.g to generate a gitignore for a haskell project type `gig --lang Haskell`
 ![GIG in action](https://github.com/palash25/GIG/blob/master/assets/gig.gif)
 
 ## Requirements
-**Python 3**
-**Click**
+- Python 3
+- Click
 
 ## System Wide Installation
 `$ git clone <this-repo>`
