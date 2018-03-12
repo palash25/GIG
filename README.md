@@ -49,3 +49,4 @@ This is just the MVP and it still needs a lot of work. Once it is done it will b
 - [ ] Add docstrings and man page.
 - [ ] PEP8ify the code.
 - [ ] Refactoring and cleanup.
+- [ ] Package and publish on PyPy
