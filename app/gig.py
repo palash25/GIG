@@ -27,7 +27,7 @@ class GIG(object):
         shutil.copy(src, self.__dest)
         click.echo(click.style("[SUCC] GITIGNORE generated.",fg='green'))
 
-        def generate(self, arg):
+    def generate(self, arg):
         if(self.gi_not_exists(self.__dest)):
             self.process(arg)
         else:
