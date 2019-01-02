@@ -1,6 +1,8 @@
 <a target="_top" href="http://www.flamingtext.com/" ><img src="https://blog.flamingtext.com/blog/2018/02/21/flamingtext_com_1519200076_290247836.png" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a>
 
-# GIG : GitIgnore Generator [WIP]
+# GIG : GitIgnore Generator [Umaintained]
+> This project is no longer maintained, feel free to fork it and make your own changes.
+
 Generate language/framework specific `.gitignore` from the comfort of your terminal. This is a work in **progress**.
 
 ## What is this?
