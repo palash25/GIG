@@ -42,9 +42,6 @@ Before you can start installing or using packages in your virtualenv you’ll ne
 
 Now, to install the required packages follow the instructions as mentioned under the section **System-wide installation**.
 
-## Contributing
-This is just the MVP and it still needs a lot of work. Once it is done it will be open for contributions.
-
 ## ToDo
 - [ ] Add checks for pre-existing `.gitignore` files and uninitialized repo.
 - [ ] Add warning messages for the user.
